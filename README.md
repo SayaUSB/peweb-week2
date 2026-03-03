@@ -6,11 +6,11 @@ Proyek ini adalah tugas praktikum Minggu ke-2 untuk mata kuliah **Pemrograman We
 
 Saya mencoba menerapkan beberapa sentuhan modern:
 
-* **Sistem Login Simpel**: Form autentikasi untuk membatasi akses ke data nilai.
-* **UI/UX yang Hidup**: Menggunakan *animated gradients*, efek *glassmorphism* (backdrop-filter), dan animasi *fade-in* agar transisinya terasa mulus.
-* **Tabel Nilai Interaktif**: Menampilkan nilai Kimia, Fisika, dan Biologi lengkap dengan perhitungan rata-rata yang rapi.
-* **Keamanan Dasar**: Halaman tabel dikunci menggunakan `sessionStorage`, jadi harus login dulu agar tidak bisa menembak URL langsung.
-* **Layout Responsif**: Berkat Flexbox, tampilannya tetap proporsional di berbagai ukuran layar.
+* **Sistem Login**: Form autentikasi untuk membatasi akses ke data nilai.
+* **UI/UX**: Menggunakan *animated gradients*, efek *glassmorphism* (backdrop-filter), dan animasi *fade-in* agar transisinya terasa mulus.
+* **Tabel Nilai**: Menampilkan nilai Kimia, Fisika, dan Biologi lengkap dengan perhitungan rata-rata yang rapi.
+* **Keamanan**: Halaman tabel dikunci menggunakan `sessionStorage`, jadi harus login dulu agar tidak bisa menembak URL langsung.
+* **Layout**: Berkat Flexbox, tampilannya tetap proporsional di berbagai ukuran layar.
 
 ---
 
